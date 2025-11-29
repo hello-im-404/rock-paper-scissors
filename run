@@ -1,4 +1,7 @@
 #!/usr/bin/bash
 
-gcc main.c -lncurses
-./a.out
+gcc main.c -o rps -lncurses
+chmod 700 rps
+./rps
+
+

@@ -1,23 +1,19 @@
-# simple cy-e-fa written on C using ncurses.
+# Hello.
 
+## simple rock-paper-scissors written on C using ncurses.
 
-
-# INSTALLATION:
+### INSTALLATION:
 ```bash
-git clone https://github.com/hello-im-404/cy-e-fa.git
-cd cy-e-fa
+git clone https://github.com/hello-im-404/rock-paper-scissors.git
+cd rock-paper-scissors
 chmod 700 run
 ./run
 ```
 
-# for local compile write:
+## for local compile write:
 
 ```bash
-gcc main.c -o cy-e-fa -lncurses
-./cy-e-fa
+gcc main.c -o rps -lncurses
+./rps
 ```
-
-
-Good luck!
-
-
+# GoodBye.
